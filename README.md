@@ -20,8 +20,8 @@ Diffusion models | VQVAE
 
 ## References
 
-- [54、Diffusion Model扩散模型理论与完整PyTorch代码详细解读](https://www.bilibili.com/video/BV1b541197HX?from=search&seid=1294797900935775585&spm_id_from=333.337.0.0&vd_source=5488316887e189ecd5e1f2cf52edaccf)
-- [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models/blob/main/README.md)
+- 54、Diffusion Model扩散模型理论与完整PyTorch代码详细解读 [[Bilibili]](https://www.bilibili.com/video/BV1b541197HX?from=search&seid=1294797900935775585&spm_id_from=333.337.0.0&vd_source=5488316887e189ecd5e1f2cf52edaccf)
+- Awesome-Diffusion-Models [[Github]](https://github.com/heejkoo/Awesome-Diffusion-Models/blob/main/README.md)
 - Understanding Diffusion Models: A Unified Perspective [[Paper]](https://arxiv.org/pdf/2208.11970.pdf)
 
 ## Image Generation
@@ -82,6 +82,5 @@ Collaborative Neural Rendering using Anime Character Sheets [[Paper]](https://ar
 
 ---
 
-```
-Based on the survey from [Yupei](https://github.com/YupeiLin2388/Paper-Diffusion-T2M)
-```
+
+Based on the Survey from [Yupei's Repo](https://github.com/YupeiLin2388/Paper-Diffusion-T2M)
