@@ -1,7 +1,6 @@
 # HumanActivityGeneration
 Materials for human action generation
 
----
 
 ### Datasets
 - BABEL: Bodies, Action and Behavior with English Labels [[project]](https://babel.is.tue.mpg.de/) [[paper]](https://arxiv.org/pdf/2106.09696.pdf) [[code]](https://github.com/abhinanda-punnakkal/BABEL)
@@ -11,7 +10,6 @@ Materials for human action generation
 - HumanML3D
   Generating Diverse and Natural 3D Human Motions from Text  (CVPR2022) [[code]](https://github.com/EricGuo5513/text-to-motion) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.html)
 
----
 
 ## diffusion
 
@@ -27,10 +25,10 @@ DDIM(NeurIPS-21)：[Improved Denoising Diffusion Probabilistic Models](https://p
 
 Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion(CVPR202):通过diffusion model预测trajectory [[code]](https://github.com/Gutianpei/MID) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.html)
 
-Vector Quantized Diffusion Model for Text-to-Image Synthesis(CVPR2022) :为了解决diffusion速度慢，需要上千次的迭代才能生成最终的结果。提出了改进方案：通过 VQVAE 降低 inference 的图像尺寸 [[github]](https://github.com/microsoft/VQ-Diffusion) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.html)  [[video]](https://www.bilibili.com/video/BV13Y4y1r7CH?from=search&seid=7677516310805155031&spm_id_from=333.337.0.0&vd_source=5488316887e189ecd5e1f2cf52edaccf)
+*[VQDiffusion]* Vector Quantized Diffusion Model for Text-to-Image Synthesis(CVPR2022) :为了解决diffusion速度慢，需要上千次的迭代才能生成最终的结果。提出了改进方案：通过 VQVAE 降低 inference 的图像尺寸 [[github]](https://github.com/microsoft/VQ-Diffusion) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.html)  [[video]](https://www.bilibili.com/video/BV13Y4y1r7CH?from=search&seid=7677516310805155031&spm_id_from=333.337.0.0&vd_source=5488316887e189ecd5e1f2cf52edaccf)
 
 
-### GANtoVedio
+### Video Generation
 
 Diffusion Models for Video Prediction and Infilling  [[paper]](https://arxiv.org/abs/2206.07696)
 
