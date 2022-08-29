@@ -72,7 +72,7 @@ TEMOS: Generating diverse human motions from textual descriptions (ECCV 2022 (Or
 ### Datasets
 
 - **AIST++**: AI Choreographer: Music Conditioned 3D Dance Generation with AIST++ [[Paper]](https://arxiv.org/abs/2101.08779) [[Project]](https://google.github.io/aistplusplus_dataset/index.html) [[Code]](https://github.com/google/aistplusplus_api)
-- **BRACE**:
+- **BRACE**: BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis [[Paper]](https://arxiv.org/abs/2207.10120?context=cs) [[Code]](https://github.com/dmoltisanti/brace)
 
 A Brand New Dance Partner: Music-Conditioned Pluralistic Dancing Controlled by Multiple Dance Genres (CVPR2022)  [[Code]](https://github.com/jw09191/MNET) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_A_Brand_New_Dance_Partner_Music-Conditioned_Pluralistic_Dancing_Controlled_by_CVPR_2022_paper.html)
 
