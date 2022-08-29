@@ -38,6 +38,7 @@ Improved Denoising Diffusion Probabilistic Models (ICLR2021) [[Paper]](https://a
 
 > 为了解决diffusion速度慢，需要上千次的迭代才能生成最终的结果。提出了改进方案：通过 VQVAE 降低 inference 的图像尺寸
 
+Tackling the Generative Learning Trilemma with Denoising Diffusion GANs (ICLR2022) [[Paper]](https://arxiv.org/abs/2112.07804) [[Code]](https://github.com/NVlabs/denoising-diffusion-gan) [[Project]](https://nvlabs.github.io/denoising-diffusion-gan/)
 ## Video Generation
 
 Diffusion Models for Video Prediction and Infilling  [[Paper]](https://arxiv.org/abs/2206.07696)
