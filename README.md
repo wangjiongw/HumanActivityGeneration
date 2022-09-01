@@ -24,6 +24,7 @@ Diffusion models | VQVAE
 - Awesome-Diffusion-Models [[Github]](https://github.com/heejkoo/Awesome-Diffusion-Models/blob/main/README.md)
 - Understanding Diffusion Models: A Unified Perspective [[Paper]](https://arxiv.org/pdf/2208.11970.pdf)
 - Awesome AI image synthesis [[Github]](https://github.com/altryne/awesome-ai-art-image-synthesis)
+- Human Motion Capture [[Github]](https://github.com/visonpon/human-motion-capture)
 
 ## Image Generation
 
