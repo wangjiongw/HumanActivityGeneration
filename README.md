@@ -70,6 +70,10 @@ Diverse Dance Synthesis via Keyframes with Transformer Controllers [[Paper]](htt
 
 TEMOS: Generating diverse human motions from textual descriptions (ECCV 2022 (Oral)) [[Code]](https://github.com/Mathux/TEMOS) [[Paper]](https://arxiv.org/abs/2204.14109)      
 
+MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model [[Paper]](https://arxiv.org/pdf/2208.15001) [[Project]](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)
+
+FLAME: Free-form Language-based Motion Synthesis & Editing [[Paper]](https://arxiv.org/pdf/2209.00349.pdf)
+
 ## Dance Generation
 
 ### Datasets
@@ -83,9 +87,6 @@ Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory (CVP
 
 Collaborative Neural Rendering using Anime Character Sheets [[Paper]](https://arxiv.org/abs/2207.05378) [[Code]](https://github.com/megvii-research/CoNR)
 
-MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model [[Paper]](https://arxiv.org/pdf/2208.15001) [[Project]](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)
-
-FLAME: Free-form Language-based Motion Synthesis & Editing [[Paper]](https://arxiv.org/pdf/2209.00349.pdf)
 
 ---
 
