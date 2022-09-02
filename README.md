@@ -85,6 +85,8 @@ Collaborative Neural Rendering using Anime Character Sheets [[Paper]](https://ar
 
 MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model [[Paper]](https://arxiv.org/pdf/2208.15001) [[Project]](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)
 
+FLAME: Free-form Language-based Motion Synthesis & Editing [[Paper]](https://arxiv.org/pdf/2209.00349.pdf)
+
 ---
 
 
