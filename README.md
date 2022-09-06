@@ -87,6 +87,7 @@ Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory (CVP
 
 Collaborative Neural Rendering using Anime Character Sheets [[Paper]](https://arxiv.org/abs/2207.05378) [[Code]](https://github.com/megvii-research/CoNR)
 
+Diverse Dance Synthesis via Keyframes with Transformer Controllers [[Paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14402)
 
 ---
 
