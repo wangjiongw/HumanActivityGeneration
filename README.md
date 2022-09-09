@@ -15,7 +15,6 @@ Diffusion models | VQVAE
     - [Datasets](#datasets)
   - [Dance Generation](#dance-generation)
     - [Datasets](#datasets-1)
-
 ---
 
 ## References
@@ -25,6 +24,7 @@ Diffusion models | VQVAE
 - Understanding Diffusion Models: A Unified Perspective [[Paper]](https://arxiv.org/pdf/2208.11970.pdf)
 - Awesome AI image synthesis [[Github]](https://github.com/altryne/awesome-ai-art-image-synthesis)
 - Human Motion Capture [[Github]](https://github.com/visonpon/human-motion-capture)
+- DIFFUSION MODELS: A COMPREHENSIVE SURVEY OF METHODS AND APPLICATIONS [[Paper]](https://arxiv.org/abs/2209.00796)
 
 ## Image Generation
 
