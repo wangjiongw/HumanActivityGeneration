@@ -68,7 +68,7 @@ TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Huma
 
 Diverse Dance Synthesis via Keyframes with Transformer Controllers [[Paper]](https://arxiv.org/abs/2207.05906)
 
-TEMOS: Generating diverse human motions from textual descriptions (ECCV 2022 (Oral)) [[Code]](https://github.com/Mathux/TEMOS) [[Paper]](https://arxiv.org/abs/2204.14109)      
+TEMOS: Generating diverse human motions from textual descriptions (ECCV 2022 (Oral)) [[Code]](https://github.com/Mathux/TEMOS) [[Paper]](https://arxiv.org/abs/2204.14109)
 
 MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model [[Paper]](https://arxiv.org/pdf/2208.15001) [[Project]](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)
 
@@ -80,6 +80,8 @@ FLAME: Free-form Language-based Motion Synthesis & Editing [[Paper]](https://arx
 
 - **AIST++**: AI Choreographer: Music Conditioned 3D Dance Generation with AIST++ [[Paper]](https://arxiv.org/abs/2101.08779) [[Project]](https://google.github.io/aistplusplus_dataset/index.html) [[Code]](https://github.com/google/aistplusplus_api)
 - **BRACE**: BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis [[Paper]](https://arxiv.org/abs/2207.10120?context=cs) [[Code]](https://github.com/dmoltisanti/brace)
+- Dance Revolution: Long-Term Dance Generation with Music via Curriculum Learning (ICLR2021) [[Dataset]](https://drive.google.com/file/d/1Xc2cpzkGc7Xh8NVa2ehFmapZJZCtBSH0/view)
+- ChoreoMaster: Choreography-Oriented Music-Driven Dance Synthesis (SIGGRAPH2021) [[Dataset]](https://drive.google.com/file/d/1R5MYYy4PSkLoifFzmCwPn9dBp8DVshxV/view)
 
 A Brand New Dance Partner: Music-Conditioned Pluralistic Dancing Controlled by Multiple Dance Genres (CVPR2022)  [[Code]](https://github.com/jw09191/MNET) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_A_Brand_New_Dance_Partner_Music-Conditioned_Pluralistic_Dancing_Controlled_by_CVPR_2022_paper.html)
 
@@ -89,8 +91,14 @@ Collaborative Neural Rendering using Anime Character Sheets [[Paper]](https://ar
 
 Diverse Dance Synthesis via Keyframes with Transformer Controllers [[Paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14402)
 
-ChoreoMaster : Choreography-Oriented Music-Driven Dance Synthesis [[Paper]](https://netease-gameai.github.io/ChoreoMaster/Paper.pdf) [[Github]](https://github.com/NetEase-GameAI/ChoreoMaster) [[Dataset]](https://drive.google.com/file/d/1R5MYYy4PSkLoifFzmCwPn9dBp8DVshxV/view) [[Project]](https://netease-gameai.github.io/ChoreoMaster/)
----
+ChoreoMaster: Choreography-Oriented Music-Driven Dance Synthesis (SIGGRAPH2021) [[Paper]](https://netease-gameai.github.io/ChoreoMaster/Paper.pdf) [[Github]](https://github.com/NetEase-GameAI/ChoreoMaster) [[Dataset]](https://drive.google.com/file/d/1R5MYYy4PSkLoifFzmCwPn9dBp8DVshxV/view) [[Project]](https://netease-gameai.github.io/ChoreoMaster/)
 
+Music-driven Dance Regeneration with Controllable Key Pose Constraints [[Paper]](https://arxiv.org/pdf/2207.03682.pdf)
+
+DanceFormer: Music Conditioned 3D Dance Generation with Parametric Motion Transformer (AAAI2022) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20014)
+
+Dance Revolution: Long-Term Dance Generation with Music via Curriculum Learning (ICLR2021) [[Paper]](https://openreview.net/pdf?id=xGZG2kS5bFk) [[Github]](https://github.com/stonyhu/DanceRevolution) [[Dataset]](https://drive.google.com/file/d/1Xc2cpzkGc7Xh8NVa2ehFmapZJZCtBSH0/view) [[Slides]](https://stonyhu.github.io/slides/ICLR-2021-poster.pdf)
+
+---
 
 Based on the Survey from [Yupei's Repo](https://github.com/YupeiLin2388/Paper-Diffusion-T2M)
