@@ -89,6 +89,7 @@ Collaborative Neural Rendering using Anime Character Sheets [[Paper]](https://ar
 
 Diverse Dance Synthesis via Keyframes with Transformer Controllers [[Paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14402)
 
+ChoreoMaster : Choreography-Oriented Music-Driven Dance Synthesis [[Paper]](https://netease-gameai.github.io/ChoreoMaster/Paper.pdf) [[Github]](https://github.com/NetEase-GameAI/ChoreoMaster) [[Dataset]](https://drive.google.com/file/d/1R5MYYy4PSkLoifFzmCwPn9dBp8DVshxV/view) [[Project]](https://netease-gameai.github.io/ChoreoMaster/)
 ---
 
 
