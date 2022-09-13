@@ -74,7 +74,7 @@ MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model [[Paper]
 
 FLAME: Free-form Language-based Motion Synthesis & Editing [[Paper]](https://arxiv.org/pdf/2209.00349.pdf)
 
-TEACH: Temporal Action Composition for 3D Humans [[Paper]](https://arxiv.org/abs/2209.04066)
+TEACH: Temporal Action Composition for 3D Humans [[Paper]](https://arxiv.org/abs/2209.04066) [[Project]](https://teach.is.tue.mpg.de/)
 
 ## Dance Generation
 
