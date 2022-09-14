@@ -103,6 +103,9 @@ DanceFormer: Music Conditioned 3D Dance Generation with Parametric Motion Transf
 
 Dance Revolution: Long-Term Dance Generation with Music via Curriculum Learning (ICLR2021) [[Paper]](https://openreview.net/pdf?id=xGZG2kS5bFk) [[Github]](https://github.com/stonyhu/DanceRevolution) [[Dataset]](https://drive.google.com/file/d/1Xc2cpzkGc7Xh8NVa2ehFmapZJZCtBSH0/view) [[Slides]](https://stonyhu.github.io/slides/ICLR-2021-poster.pdf)
 
+Dancing to Music (NIPS2019)
+[[Paper]](https://arxiv.org/abs/1911.02001) [[Github]](https://github.com/NVlabs/Dancing2Music) 
+
 ---
 
 Based on the Survey from [Yupei's Repo](https://github.com/YupeiLin2388/Paper-Diffusion-T2M)
