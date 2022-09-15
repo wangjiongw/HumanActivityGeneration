@@ -66,8 +66,6 @@ Generating Diverse and Natural 3D Human Motions from Text  (CVPR2022) [[Code]](h
 
 TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts (ECCV2022) [[Code]](https://github.com/EricGuo5513/TM2T) [[Paper]](https://arxiv.org/abs/2207.01696)
 
-Diverse Dance Synthesis via Keyframes with Transformer Controllers [[Paper]](https://arxiv.org/abs/2207.05906)
-
 TEMOS: Generating diverse human motions from textual descriptions (ECCV 2022 (Oral)) [[Code]](https://github.com/Mathux/TEMOS) [[Paper]](https://arxiv.org/abs/2204.14109)
 
 MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model [[Paper]](https://arxiv.org/pdf/2208.15001) [[Project]](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)
@@ -103,8 +101,9 @@ DanceFormer: Music Conditioned 3D Dance Generation with Parametric Motion Transf
 
 Dance Revolution: Long-Term Dance Generation with Music via Curriculum Learning (ICLR2021) [[Paper]](https://openreview.net/pdf?id=xGZG2kS5bFk) [[Github]](https://github.com/stonyhu/DanceRevolution) [[Dataset]](https://drive.google.com/file/d/1Xc2cpzkGc7Xh8NVa2ehFmapZJZCtBSH0/view) [[Slides]](https://stonyhu.github.io/slides/ICLR-2021-poster.pdf)
 
-Dancing to Music (NIPS2019)
-[[Paper]](https://arxiv.org/abs/1911.02001) [[Github]](https://github.com/NVlabs/Dancing2Music) 
+Dancing to Music (NIPS2019) [[Paper]](https://arxiv.org/abs/1911.02001) [[Github]](https://github.com/NVlabs/Dancing2Music) 
+
+Diverse Dance Synthesis via Keyframes with Transformer Controllers [[Paper]](https://arxiv.org/abs/2207.05906)
 
 ---
 
